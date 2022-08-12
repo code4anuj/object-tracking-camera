@@ -1,0 +1,2 @@
+# object-tracking-camera
+We have created a camera which was following particular objects like Faces, Circular objects on its axises . It was very nice experience as we worked very hard on python script to detect object's location with respect screen origin and sending those data to microcontroller in a string formate using Serial Port Network Protocol. Followed by controlling servo as per the fetched data and solving some bugs of hardware and electronics ended up us to final OTC product. mentioned link will redirect to the basic source code of OTC for faces. 
